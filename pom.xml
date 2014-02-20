@@ -6,6 +6,13 @@
   <artifactId>ci-test</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
+  
+  <contributors>
+	<contributor>
+		<name>Ashoo Oberoi</name>
+		<email>ashoooberoi@yahoo.com</email>
+	</contributor>
+  </contributors>
 
   <name>ci-test</name>
   <url>http://maven.apache.org</url>
